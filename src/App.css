@@ -1,0 +1,55 @@
+h1{
+  font-size: 80px;
+  margin-top: 0%;
+  font-family: cursive;
+  text-align: center;
+  color: rgb(41, 105, 69);
+}
+
+body{
+  background-image: url("https://www.coreldraw.com/static/cdgs/images/pages/seo/tips/photo/basics/blur-background/blur-background.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#mainDiv{
+  height: 430px;
+  width: 50%;
+  margin: auto;
+  margin-top: 4%;
+  text-align: center;
+  
+}
+
+.timeDisplay{
+  height: 100px;
+  width: 60%;
+  margin: auto;
+  margin-top: 6%;
+  margin-bottom: 2%;
+  font-size: 70px;
+  font-weight: bolder;
+  
+}
+
+.btnDisplay{
+  height: 80px;
+  width: 80%;
+  margin-top: 6%;
+  margin: auto;
+  font-size: 50px;
+  
+}
+
+button{
+  font-size: 28px;
+  padding: 3% 4% ;
+  margin-left: 2%;
+  border-radius: 9px;
+  background-color: rgb(4, 124, 74);
+  color: antiquewhite;
+}
+
+button:hover{
+  border: 4px solid rgb(29, 92, 66);
+}
